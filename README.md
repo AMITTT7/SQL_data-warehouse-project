@@ -19,7 +19,7 @@ Develop a modern data warchouse using SQL Server to consolidate sales data, enab
 
 ### Objective 
 Develop SQL-based analytics to deliver detailed insights into: - 
-- **Customer Bchavior** 
+- **Customer Behavior** 
 - **Product Performance** 
 - **Sales Trends**
 
